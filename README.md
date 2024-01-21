@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [___](https://your-solution-url.com)
-- Live Site URL: [___](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-newshomepage-solution-92raP40sO2)
+- Live Site URL: [Live Site](https://ahmadikhdair.github.io/news-homepage/)
 
 ## My process
 
